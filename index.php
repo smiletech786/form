@@ -5,69 +5,7 @@
 	
 <link rel="stylesheet" type="text/css" href="style.css">
 
-	<style type="text/css">
-		body {
-background: url("https://previews.123rf.com/images/stori/stori1810/stori181000063/109735138-abstract-blue-background.jpg");
-background-repeat: no-repeat;
-background-size: 100%;
-
-}
-
-.container {
-
-   background: #000000;
-   width: 400px;
-   height: 380px;
-   margin: 0 auto;
-   margin-top: 100px;
-   border-radius: 2px;
-   opacity: 0.8;
-		}
-
-.form {
-	margin: 0 auto;
-	width: 80%;
-
-}		
-
-input, textarea {
-	width: 100%;
-   background: #000000;
-   padding: 15PX;
-   border: none;
-   border-bottom: 1px solid #39b7dd;
-   color: #39b7dd;
-  margin-bottom: 10px;
-}	
-
-::-webkit-input-placeholder { /* Edge */
-  color: #39b7dd;
-}
-
-:-ms-input-placeholder { /* Internet Explorer */
-  color: #39b7dd;
-}
-
-::placeholder {
-  color: #39b7dd;
-}	
-
-.submit {
-	border:none;
-	background: #39b7dd;
-	color: #fff;
-	margin-top: 10px;
-}
-
-.success {
-	text-align: center;
-	background:#000;
-	color: #39b7dd;
-	font-family: arial;
-
-}
 	
-	</style>
 </head>
 <body>
 
@@ -84,9 +22,6 @@ input, textarea {
    	  </form>
    	  </div>
    </div>
-<pre>
-     <xmp><!-- your html code --></xmp>
-</pre>
 
 
 </body>
